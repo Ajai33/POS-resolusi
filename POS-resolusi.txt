@@ -1,0 +1,3 @@
+POS RESOLUSI
+- Konsisten untuk membuat aplikasi POS
+- Membuat aplikasi POS untuk pengelolaan penjualan
